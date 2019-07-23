@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Coming Soon",
+    "name": "وب سایت امیر جعقری",
     "currentPage": "coming  soon.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,11 @@
     "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/20190704-034821-0000-128x165.png",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "coming  soon.html": {
