@@ -1,19 +1,25 @@
 {
   "settings": {
-    "name": "Site-07-23_0311",
+    "name": "وب سایت امیر جعفری",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#26272c"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 6,
+    "uniqCompNum": 3,
     "versionPublish": "4.10.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/20190704-034821-0000-128x120.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -39,10 +45,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#26272c",
             "overlay": true,
             "overlayColor": "#444444",
